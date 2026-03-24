@@ -1,4 +1,4 @@
-# .NET8 Web API Study
+# .NET8 Web API Study(ASP.NET Core REST API)
 
 ASP.NET Core Web API 학습을 위해 진행한 프로젝트입니다.  
 JWT 인증과 사용자별 포트폴리오 조회 기능을 구현하며  
