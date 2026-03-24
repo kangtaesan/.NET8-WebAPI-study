@@ -9,11 +9,12 @@ API 구조와 인증 흐름을 이해하는 데 중점을 두었습니다.
 - Entity Framework Core
 - SQL Server
 - JWT Authentication
+- Swagger
 
 ## Features
 - JWT 기반 인증 API (로그인, 토큰 검증)
-- 사용자 정보 조회 API
 - 사용자별 포트폴리오 조회 API
+- 사용자 정보 조회 API
 
 ## Key Learnings
 - JWT 인증 흐름 (토큰 발급 → 검증 → 인증 처리) 이해
